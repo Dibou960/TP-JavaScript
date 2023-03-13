@@ -1,0 +1,32 @@
+
+.compte-a-rebours {
+    background-image: url('711R70BFyBL._AC_SY300_SX300_.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 44px;
+    font-weight: bold;
+    padding: 30px;
+  }
+  
+  .timer {
+    margin: 0 50px;
+    margin-top: 3em;
+  }
+  
+  .petit-texte {
+    font-size: 19px;
+    text-transform: uppercase;
+    margin-top: 2em;  
+  }
+  .OSD{
+    display: flex;
+    margin-top: -7em;
+    justify-content: center;
+    text-align: center;
+    font-weight: bold;
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+  }

@@ -1,0 +1,118 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.container{
+    background-color: #350359;
+    display: block;
+    border: 1em solid #79009a;
+    margin-left:30em;
+    width:30%;
+    height: 35em;
+    margin-top: 12em;
+}
+.lpw{
+    position: relative;
+    top: 3em;
+    font-size: 1.5em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    margin:1.5em;
+}
+.clM{
+    position: relative;
+    top: 3em;
+    font-size: 1.5em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    margin:1.5em;
+}
+.clm{
+    position: relative;
+    top: 3em;
+    font-size: 1.5em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    margin:1.5em;
+}
+.cn{
+    position: relative;
+    top: 3em;
+    font-size: 1.5em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    margin:1.5em;
+}
+.ccs{
+    position: relative;
+    top: 3em;
+    font-size: 1.5em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    margin:1.5em;
+}
+.gmdp{
+    position: relative;
+    top: 3em;
+    font-size: 1.7em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #350359;
+    margin:1.40em;
+    background-color: rgb(255, 191, 0);
+    text-align: center;
+    border: 0.5em solid rgb(255, 191, 0);
+    cursor: pointer;
+    font-weight: bold;
+}
+input[type="checkbox"] {
+    position: relative;
+    top: -370px;
+    left: 940px;
+    cursor: pointer;
+  }
+  
+  li {
+    position: relative;
+    top: 3.2em;
+    margin-bottom: 45px;
+    
+  }
+
+  input[type="number"]{
+    position: relative;
+    top:-25.8em;
+    left:31em;
+    width: 4em;
+    height: 2em;
+}
+.mdp {
+    position: relative;
+    margin-top: -45em;
+    display: flex;
+    align-items: center;
+    width: 25em;
+    height: 3em;
+    margin-left:32.5em ;
+  }
+  
+  #generermdp {
+    flex-grow: 1;
+    padding: 0.5em;
+    border: none;
+    font-size: 2em;
+    background-color: #79009a;
+    color: white;
+    font-weight: bold;
+  }
+  
+   #btncopier{
+    margin-left: -5em;
+    padding: 0.5em 1em;
+    border: none;
+    font-size: 0.6em;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #a5a5a5db;
+    cursor: pointer;
+  }
